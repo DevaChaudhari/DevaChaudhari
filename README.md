@@ -32,7 +32,7 @@ I build AI agents and retrieval augmented generation systems that go from protot
 
 ## Featured projects
 
-### [AustraliaJobSeeker AI](https://github.com/DevaChaudhari/AustraliaJobSeeker-AI) · [Live app](https://australiajobseeker-frontend-952176467939.us-central1.run.app/)
+### [AustraliaJobSeeker AI](https://github.com/DevaChaudhari/AustraliaJobSeeker-AI) · [Live app](https://main.d1ffqg8xlvl7zp.amplifyapp.com/)
 A visa aware job search assistant for international students in Australia. SEEK has no visa filter, so a LangGraph pipeline searches SEEK, reads each full job ad, checks it against the user's visa (500, 485, 482 or PR), ranks jobs on visa fit and resume skill match, and generates tailored resumes and cover letters. Exposed as a FastAPI REST API, an A2A server and an MCP server, with LangSmith tracing, Docker, Kubernetes manifests and Cloud Run deployment.
 
 `Python` `LangGraph` `Playwright` `Groq` `FastAPI` `MCP` `A2A` `LangSmith` `Docker` `Kubernetes` `Cloud Run`
