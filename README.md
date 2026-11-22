@@ -9,7 +9,7 @@
 <a href="https://devachaudhari.github.io/Devendra-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/devendra-chaudhari-40a79321a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:devachaudhari22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://devachaudhari.github.io/Devendra-Portfolio/DevendraChaudhari.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+<a href="https://devachaudhari.github.io/Devendra-Portfolio/Devendra_Chaudhari_Resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 
 **Adelaide, South Australia** · Open to AI, ML and data roles in Adelaide or remote
 
@@ -32,7 +32,7 @@ I build AI agents and retrieval augmented generation systems that go from protot
 
 ## Featured projects
 
-### [AustraliaJobSeeker AI](https://github.com/DevaChaudhari/AustraliaJobSeeker-AI)
+### [AustraliaJobSeeker AI](https://github.com/DevaChaudhari/AustraliaJobSeeker-AI) · [Live app](https://australiajobseeker-frontend-952176467939.us-central1.run.app/)
 A visa aware job search assistant for international students in Australia. SEEK has no visa filter, so a LangGraph pipeline searches SEEK, reads each full job ad, checks it against the user's visa (500, 485, 482 or PR), ranks jobs on visa fit and resume skill match, and generates tailored resumes and cover letters. Exposed as a FastAPI REST API, an A2A server and an MCP server, with LangSmith tracing, Docker, Kubernetes manifests and Cloud Run deployment.
 
 `Python` `LangGraph` `Playwright` `Groq` `FastAPI` `MCP` `A2A` `LangSmith` `Docker` `Kubernetes` `Cloud Run`
